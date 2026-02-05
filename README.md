@@ -10,11 +10,18 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and solvi
 
 ## 📈 GitHub Stats
 ![MtkN1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MtkN1&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MtkN1&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MtkN1&theme=radical)
 
 ## 🔗 Connect with Me
 - 🐦 [x.com/MtkN1XBt](https://x.com/MtkN1XBt)
+- 💼 [GitHub](https://github.com/MtkN1)
 
 ## 🛠️ Languages and Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AsyncIO](https://img.shields.io/badge/AsyncIO-Expert-green?style=for-the-badge)
+![WebSocket](https://img.shields.io/badge/WebSocket-Specialist-blue?style=for-the-badge)
+
 Python 🐍 + static typing + asynchronous = my happy place 💓
 
 ## 📝 Featured Project
